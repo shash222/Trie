@@ -1,6 +1,6 @@
 package trie;
 import java.util.*;
-
+ 
 public class Trie {
 	Character c;
 	Hashtable<Character,Trie> children;
